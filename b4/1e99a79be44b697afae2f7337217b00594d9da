@@ -1,0 +1,19 @@
+README.md
+  s_649f4b936ce3b5::t_eccef3bdf969bf 2804
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "b41e99a79be44b697afae2f7337217b00594d9da",
+  "prompts": {},
+  "sessions": {
+    "s_649f4b936ce3b5": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e5260b8f-41b6-4aac-8e66-a709ab23c8b1",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Ivan Murzak <Ivan.D.Murzak@gmail.com>"
+    }
+  }
+}
